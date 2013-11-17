@@ -61,5 +61,3 @@ module I18nActionMailer
   end
 
 end
-
-ActionMailer::Base.send(:include, I18nActionMailer)
